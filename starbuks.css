@@ -1,0 +1,216 @@
+body{
+    margin:0;
+    padding: 0;
+   }
+   .header{
+    display: flex;
+    padding:20px;
+    box-shadow: 0 1.5px 0 gainsboro
+   }
+   .head{
+    object-fit: cover;
+   }
+   .logo{
+    
+    margin-left: 400px;
+    
+   }
+   .text{
+    margin-top: 20px;
+    font-size: medium;
+   }
+   .button{
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    background-color:white ;
+    margin-left: 20px;
+    color: black;
+    border-radius: 50px;
+   }
+   .button1{
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    background-color:black ;
+    margin-left: 20px;
+    color: white;
+    
+   }
+   .container{
+    margin-top: 40px;
+    display: flex;
+    overflow: hidden;
+    
+   }
+   .first{
+    width: 50%;
+    height: 360px;
+   }
+   .first img{
+    height:360px;
+    width: 760px;
+   }
+   .second{
+    width: 50%;
+    height: 360px;
+    background-color: #d4e9e2;
+    text-align: center; 
+   }
+   .sec1{
+    margin-top: 90px;
+    font-family:Arial, Helvetica, sans-serif; 
+   }
+   .sec2{
+    margin-top: 50px;
+    font-family:arial;
+    font-size:large; 
+   }
+   .button2{
+    border-radius: 60px;
+    background-color: #d4e9e2;
+    margin-top: 20px;
+    width: 120px;
+    height: 30px;
+   }
+   
+   
+   .second2{
+    width: 50%;
+    height: 360px;
+    background-color: #006241;
+    text-align: center; 
+   }
+   .buttonsub{
+    border-radius: 60px;
+    background-color: #006241;
+    margin-top: 20px;
+    width: 120px;
+    height: 30px;
+    color: white; 
+    border-color: white;
+   }
+   .secsub1{
+    margin-top: 90px;
+    font-family:Arial, Helvetica, sans-serif; 
+    color: white; 
+   }
+   .secsub2{
+    margin-top: 50px;
+    font-family:arial;
+    font-size:large; 
+    color: white; 
+   }
+   .first2{
+    width: 60%;
+    height: 500px;
+   }
+   .first2 img{
+    height:500px;
+    width: 763px;
+   }
+   .second3{
+    width: 60%;
+    height:500px;
+    background-color: #006241;
+    text-align: center; 
+   }
+   .sec1sub1{
+    margin-top: 130px;
+    font-family:Arial, Helvetica, sans-serif; 
+    color: white; 
+    font-size: 50px;
+   }
+   .sec1sub2{
+    margin-top: 50px;
+    font-family:arial;
+    font-size:large; 
+    color: white; 
+    font-size:25px ;
+   }
+   .button1sub{
+    border-radius: 60px;
+    background-color: #006241;
+    margin-top: 20px;
+    width: 130px;
+    height: 40px;
+    color: white; 
+    border-color: white;
+    font-size: medium;
+    
+   }
+   .para{
+    margin-top: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    box-shadow: 0 1.5px 0 gainsboro
+    
+   }
+   .footer {
+    height: 587px;
+    
+    
+    }
+    .footer1 {
+    display: flex;
+    margin-top: 35px;
+    box-shadow: 0 1.5px 0 gainsboro;
+    }
+    .fone {
+    width: 190px;
+    }
+    .fone h4 {
+    margin-left: 42px;
+    font-size: 17px;
+    }
+    .fone ul li {
+    list-style: none;
+    line-height: 37px;
+    color: grey;
+    }
+    .ftwo h4,
+    .fthree h4,
+    .ffour h4,
+    .ffive h4 {
+    margin-left: 42px;
+    font-size: 17px;
+    color: grey;
+    
+    }
+    .ftwo ul li,
+    .fthree ul li,
+    .ffour ul li,
+    .ffive ul li {
+    list-style: none;
+    line-height: 37px;
+    color: grey;
+    }
+    .image
+    {
+    display: flex;
+    height: 39px;
+    margin-left: 45px;
+    font-size: 27px;
+    margin-top: 30px;
+    
+    }
+    .image i{
+    margin: 8px;;
+    }
+   
+    .pri {
+    margin-left: 6px;
+   }
+   .pri ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 23px;
+    font-size: 16px;
+   }.footer p {
+    margin-left: 45px;
+    color: grey;
+    margin-top: 26px;
+    font-size: 14px;
+    }
+  
